@@ -14,9 +14,6 @@ Aspiring Software Engineer @Rakuten Tokyo | 2030
 -**2029 May:** Rakuten Internship Target
 -**2030 Dec:** Move to Tokyo 
 
-### GitHub Stats 
-<img src "https://github-readme-stats.vercel.app/api?username=nikhiltomar2712&show_icons=true&theme=tokyonight"/>
-
 ### Connect 
 -LinkedIn: [Nikhil Tomar]
 -Email: nikhiltomarsan2712@gmail.com
