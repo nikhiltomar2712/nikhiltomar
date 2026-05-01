@@ -5,7 +5,7 @@ JLPT N1 Candidate | Target: Dec 2028
 Aspiring Software Engineer @Rakuten Tokyo | 2030
 
 ### Tech Stack
-'Java' 'JavaScript' 'React' 'Node.js' 'MongoDB' 'SQL' 'GIT'
+'Python' 'HTML' 'Java' 'JavaScript' 'React' 'Node.js' 'MongoDB' 'SQL' 'GIT'
 
 ### 2026-2030 Roadmap
 -**2026 Dec:** JLPT N4
@@ -15,5 +15,5 @@ Aspiring Software Engineer @Rakuten Tokyo | 2030
 -**2030 Dec:** Move to Tokyo 
 
 ### Connect 
--LinkedIn: [Nikhil Tomar]
+-LinkedIn: [https://www.linkedin.com/in/nikhil-tomar-1156203ba/]
 -Email: nikhiltomarsan2712@gmail.com
