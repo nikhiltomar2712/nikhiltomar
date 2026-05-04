@@ -15,5 +15,5 @@ Aspiring Software Engineer @Rakuten Tokyo | 2030
 -**2030 Dec:** Move to Tokyo 
 
 ### Connect 
--LinkedIn: [https://www.linkedin.com/in/tomarnikhil/]
+-LinkedIn: [https://www.linkedin.com/in/nikhil-tomar27/]
 -Email: nikhiltomarsan2712@gmail.com
